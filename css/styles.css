@@ -5,22 +5,26 @@
     --accent-color:#2196F3;
     --background-color2:#2F303A;
     --background-color3:#F5F4FA;
+    --line-color: #ECECEC;
+    --black-color: #000000;
+    --black-color2: #212121;
+    --pictures-color:#EEEEEE;
     
 }
 
 /* body */
-.page{
-    font-style: normal;
-    letter-spacing: 0.03em;  
+body{
+       letter-spacing: 0.03em;  
     background-color: var(--background-color);
     color: var(--primary-text-color);
-    font-family: Roboto
- }
+    font-family: Roboto, Raleway;
+    font-size: 14px;
+    }
 
 /* logo */
 .logo{
     text-decoration: none;
-font-family: 'Raleway', cursive;
+font-family: Raleway;
 font-style: normal;
 font-weight: 700;
 font-size: 26px;
@@ -36,20 +40,14 @@ color: var(--title-text-color);
 .logo-footer{
     color: var(--background-color);
 }
-li{
+ul{
     list-style: none;
 }
-h2{
-    color:var(--title-text-color)
+a{
+    text-decoration: none;
 }
-h3 {
-    color: #212121;
-}
-
 
 /* верхня лінія */
-
-
 .site-nav,.link {
 color: var(--title-text-color);
 text-decoration: none;
