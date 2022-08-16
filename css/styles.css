@@ -17,7 +17,7 @@ body{
        letter-spacing: 0.03em;  
     background-color: var(--background-color);
     color: var(--primary-text-color);
-    font-family: Roboto, Raleway;
+    font-family: Roboto, sans-serif;
     font-size: 14px;
     }
 
@@ -53,7 +53,7 @@ color: var(--title-text-color);
 text-decoration: none;
 font-weight: 500;
 font-size: 14px;
-line-height: 1,14;
+line-height: 1.14;
 letter-spacing: 0.02em;
 
 }
@@ -68,12 +68,12 @@ letter-spacing: 0.02em;
 .contact{
 font-weight: 500;
 font-size: 14px;
-line-height: 1,14;
+line-height: 1.14;
 letter-spacing: 0.02em;
 
 }
 .mail-nav{
-   color: var(--title-text-color); 
+   color: var(--primary-text-color); 
    text-decoration: none;
 }
 .mail-nav:hover, .mail-nav:focus{
@@ -81,7 +81,7 @@ letter-spacing: 0.02em;
 }
 .tel-nav{    
     text-decoration: none;
-    color: var(--title-text-color);
+    color: var(--primary-text-color);
      }
      
 .tel-nav:hover, .tel-nav:focus{
@@ -95,7 +95,7 @@ letter-spacing: 0.02em;
  color: var(--background-color);
 font-weight: 900;
 font-size: 44px;
-line-height: 1,36;
+line-height: 1.36;
 text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
@@ -105,7 +105,7 @@ background-color: var(--accent-color);
 color: var(--background-color);
 font-weight: 700;
 font-size: 16px;
-line-height: 1,8;
+line-height: 1.8;
 display: flex;
 align-items: center;
 text-align: center;
@@ -128,7 +128,7 @@ letter-spacing: 0.06em;
 color: var(--title-text-color);
 font-weight: 700;
 font-size: 14px;
-line-height: 1,14;
+line-height: 1.14;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
@@ -136,7 +136,7 @@ text-transform: uppercase;
 .features-text{
 font-weight: 400;
 font-size: 14px;
-line-height: 1,7;
+line-height: 1.7;
 letter-spacing: 0.03em;
 }
 
@@ -150,7 +150,7 @@ letter-spacing: 0.03em;
 .portfolio-text{
 font-weight: 400;
 font-size: 16px;
-line-height: 1,8;
+line-height: 1.8;
 letter-spacing: 0.03em;
 text-decoration: none;
 color: var(--primary-text-color);
@@ -166,7 +166,7 @@ color: var(--primary-text-color);
 .team-person{
 font-weight: 500;
 font-size: 16px;
-line-height: 1,18;
+line-height: 1.18;
 text-align: center;
 letter-spacing: 0.03em;
 }
@@ -174,7 +174,7 @@ letter-spacing: 0.03em;
 .team-position{
 font-weight: 400;
 font-size: 16px;
-line-height: 1,18;
+line-height: 1.18;
 text-align: center;
 letter-spacing: 0.03em;
 }
@@ -186,7 +186,7 @@ letter-spacing: 0.03em;
         font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 1.71;
 letter-spacing: 0.03em;
 color: var(--primary-text-color);
 text-decoration: none;
